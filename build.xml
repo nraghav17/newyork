@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<project name="Hello World Project" default="info">
+
+<target name="info">
+
+<echo> Hello USA - Welcome to Texas</echo>
+
+</target>
+
+</project>
+
+
